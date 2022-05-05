@@ -27,14 +27,18 @@ const About = () => {
 							<FiUsers className='about__icon' />
 							<h5>Trophies</h5>
 							<small>4x Champions League </small>
+							<br></br>
 							<small>3x La Liga </small>
+							<br></br>
 							<small>2x Copa Del Rey </small>
 						</article>
 
 						<article className='about__card'>
 							<FiUsers className='about__icon' />
 							<h5>2021-2022 Stats</h5>
-							<small>46 Goals & 14 Decisive pass</small>
+							<small>46 Goals</small>
+							<br></br>
+							<small>14 Decisive pass</small>
 						</article>
 					</div>
 					<p>

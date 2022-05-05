@@ -4,7 +4,8 @@ import './experience.css'
 const Experience = () => {
 	return (
 		<section id='experience'>
-			Experience
+			<h5>What skills I have</h5>
+			<h2>My experience</h2>
 		</section>
 	)
 }
